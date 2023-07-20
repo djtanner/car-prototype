@@ -8,3 +8,4 @@
 - Spawn Manager is to spawn buses on the other end of the road
 - Move Forward is for movement of NPC vehicles
 - DestroyBounds is to destroy game objects that go out of bounds
+- Switch the camera view when spacebar is pressed from behind the vehicle to the driver's seat
